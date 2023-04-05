@@ -1,0 +1,8 @@
+CoEチーム各位
+
+Lambdaが異常終了しました。
+ご確認をお願い致します。
+
+【発生時刻】ver_error_date
+【エラー内容】
+ ver_error

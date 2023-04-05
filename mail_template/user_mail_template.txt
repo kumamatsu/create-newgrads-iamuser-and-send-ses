@@ -1,0 +1,9 @@
+おつかれさまです。クラウドCoEです。
+
+新卒研修で利用するAWSアカウント情報です。
+ログイン URLは別途連携します。
+
+IAM User：var_username
+Password：var_password
+
+ログイン後は必ずMFAを設定してください
